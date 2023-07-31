@@ -1,0 +1,14 @@
+{
+  "name": "@pbellon/circle-of-5ths",
+  "main": "4816f5332e3e96a5@205.js",
+  "version": "205.0.0",
+  "homepage": "https://observablehq.com/@pbellon/circle-of-5ths",
+  "author": {
+    "name": "Pierre Bellon",
+    "url": "https://observablehq.com/@pbellon"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
